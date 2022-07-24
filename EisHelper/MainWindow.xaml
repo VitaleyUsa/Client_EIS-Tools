@@ -1,0 +1,120 @@
+﻿<Window x:Class="EisHelper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EisHelper"
+        mc:Ignorable="d"
+        Title="Помощник для Енот / КЛ ЕИС" Height="450" SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen" ResizeMode="CanMinimize" MinWidth="380">
+    <Window.Resources>
+        <Style x:Key="WaterMark" TargetType="{x:Type TextBox}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type TextBox}">
+                        <Grid>
+                            <Border Background="White" BorderBrush="#FF7D8683" BorderThickness="1" />
+                            <ScrollViewer x:Name="PART_ContentHost" Margin="5,0,0,0" VerticalAlignment="Center" />
+                            <Label Margin="5,0,0,0" x:Name="WaterMarkLabel" Content="{TemplateBinding Tag}" VerticalAlignment="Center"
+                               Visibility="Collapsed" Foreground="Gray" FontFamily="Arial" />
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <MultiTrigger>
+                                <MultiTrigger.Conditions>
+                                    <Condition Property="Text" Value="" />
+                                </MultiTrigger.Conditions>
+                                <Setter Property="Visibility" TargetName="WaterMarkLabel" Value="Visible" />
+                            </MultiTrigger>
+                            <Trigger Property="IsEnabled" Value="False">
+                                <Setter Property="Foreground" Value="DimGray" />
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Margin="0,20,0,0">
+        <StackPanel x:Name="stackLogin" HorizontalAlignment="Center"  MinWidth="250" VerticalAlignment="Center">
+            <TextBlock HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,0,10">
+                Пароль:
+            </TextBlock>
+            <PasswordBox x:Name="pbPassword" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Margin="0,0,0,3" SelectionBrush="Black" />
+            <TextBlock x:Name="tbPassword" FontSize="10">
+                Для входа в программу требуется ввести пароль
+            </TextBlock>
+            <Button x:Name="btLogin" Content="войти" Width="100" Margin="0,20" HorizontalAlignment="Center" VerticalAlignment="Center" Click="Button_Click" IsDefault="True" />
+        </StackPanel>
+
+        <Grid x:Name="MainGrid" Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <StackPanel x:Name="HelperBody" Margin="20,0" Grid.Row="0">
+                <StackPanel.Resources>
+                    <Style TargetType="{x:Type CheckBox}">
+                        <Setter Property="Margin" Value="0,10,0,0" />
+                    </Style>
+                </StackPanel.Resources>
+                <StackPanel x:Name="Settings">
+                    <StackPanel Orientation="Horizontal" Margin="0">
+                        <StackPanel>
+                            <TextBox x:Name="txt_Server" Style="{StaticResource WaterMark}" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150" Tag="localhost:21285" MinHeight="30" Width="209" FontSize="10" />
+                        </StackPanel>
+                        <StackPanel x:Name="EnotEis" Margin="35,0,0,0">
+                            <RadioButton x:Name="rb_Enot" Content="Енот" Checked="RadioButton_enot_Checked" IsEnabled="false" />
+                            <RadioButton x:Name="rb_EIS" Content="Клиент ЕИС" IsChecked="True" Checked="RadioButton_eis_Checked" />
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+
+                <StackPanel x:Name="EIS" Margin="0,20">
+                    <CheckBox x:Name="cb_credentials" Content="Сбросить имя пользователя и пароль" Checked="credentials_Checked" Unchecked="credentials_Unchecked" />
+                    <TextBlock x:Name="tb_credentials" TextWrapping="WrapWithOverflow" FontSize="10" Visibility="Collapsed" Margin="20,0,0,0" FontStyle="Italic">
+                        Отсутствует пользователь в базе данных, сброс невозможен
+                    </TextBlock>
+                    <StackPanel x:Name ="credentials_input" Visibility="Collapsed">
+                        <StackPanel Orientation="Horizontal" Margin="0">
+                            <StackPanel>
+                                <Label Content="имя пользователя" />
+                                <TextBox x:Name="credentials_name" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150" />
+                            </StackPanel>
+                            <StackPanel Margin="20,0,0,0" IsEnabled="False">
+                                <Label Content="пароль" />
+                                <TextBox x:Name="credentials_password" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">123456</TextBox>
+                            </StackPanel>
+                        </StackPanel>
+                        <Label Content="(оставьте поле пустым, если не хотите изменять его)" HorizontalAlignment="Center" FontSize="10" />
+                    </StackPanel>
+
+                    <CheckBox x:Name="cb_file_out_part" Content="Очистить таблицу out-file-part" />
+                    <TextBlock x:Name="tb_file_out_part" TextWrapping="WrapWithOverflow" FontSize="10" Margin="20,0,0,0">
+                        Размер таблицы out-file-part слишком большой. Вы хотите очистить ее?
+                    </TextBlock>
+
+                    <CheckBox x:Name="cb_registration" IsEnabled="False" Content="Восстановить регистрацию" />
+                    <TextBlock x:Name="tb_registration" TextWrapping="WrapWithOverflow" FontSize="10" Margin="20,0,0,0">
+                        Резервная копия регистрационных данных не найдена
+                    </TextBlock>
+                    <CheckBox x:Name="cb_global_fix" Content="Исправить распространенные проблемы" />
+
+                    <CheckBox x:Name="cb_jpo_500" Content="Исправить 500 ошибку в профиле" />
+                </StackPanel>
+                <StackPanel x:Name="Enot" Margin="0,20" Visibility="Collapsed">
+                    <CheckBox x:Name="cb_enot_statpass" Content="Сбросить пароль на статотчет" />
+                </StackPanel>
+            </StackPanel>
+
+            <StackPanel x:Name="EIS_registration_drop" Margin="20, 0" Grid.Row="1">
+                <CheckBox x:Name="cb_registration_drop" Content="Полностью обнулить регистрацию и аккаунт нотариуса" FontSize="8" FontWeight="Bold" VerticalContentAlignment="Center" Opacity="0.5" />
+                <Button x:Name="start" Content="Запустить" HorizontalAlignment="Center" Margin="0,20" MinWidth="150" Click="start_Click" />
+            </StackPanel>
+        </Grid>
+        <StackPanel x:Name="stackStatus" HorizontalAlignment="Center"  MinWidth="250" VerticalAlignment="Center" Visibility="Collapsed" MinHeight="40">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">
+                Подождите, выполняется применение выбранных опций...
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>

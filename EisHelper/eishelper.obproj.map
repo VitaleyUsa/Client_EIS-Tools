@@ -1,0 +1,348 @@
+﻿<Mappings><Entry OldName="EisHelper.MainWindow.ConnectionTimeout" NewName="A.H.ConnectionTimeout" />
+<Entry OldName="EisHelper.MainWindow.Login" NewName="A.H.Login" />
+<Entry OldName="EisHelper.MainWindow.TMPE" NewName="A.H.TMPE" />
+<Entry OldName="EisHelper.MainWindow.backupPath" NewName="A.H.backupPath" />
+<Entry OldName="EisHelper.MainWindow.cur_status" NewName="A.H.cur_status" />
+<Entry OldName="EisHelper.MainWindow.installLocation" NewName="A.H.installLocation" />
+<Entry OldName="EisHelper.MainWindow.Port" NewName="A.H.Port" />
+<Entry OldName="EisHelper.MainWindow.Server" NewName="A.H.Server" />
+<Entry OldName="EisHelper.MainWindow.tmpEISfiles" NewName="A.H.tmpEISfiles" />
+<Entry OldName="EisHelper.MainWindow.upgradeCode" NewName="A.H.upgradeCode" />
+<Entry OldName="EisHelper.MainWindow.stackLogin" NewName="A.H.H" />
+<Entry OldName="EisHelper.MainWindow.pbPassword" NewName="A.H.H" />
+<Entry OldName="EisHelper.MainWindow.tbPassword" NewName="A.H.H" />
+<Entry OldName="EisHelper.MainWindow.btLogin" NewName="A.H.H" />
+<Entry OldName="EisHelper.MainWindow.MainGrid" NewName="A.H.H" />
+<Entry OldName="EisHelper.MainWindow.HelperBody" NewName="A.H.B" />
+<Entry OldName="EisHelper.MainWindow.Settings" NewName="A.H.V" />
+<Entry OldName="EisHelper.MainWindow.txt_Server" NewName="A.H.H" />
+<Entry OldName="EisHelper.MainWindow.EnotEis" NewName="A.H.M" />
+<Entry OldName="EisHelper.MainWindow.rb_Enot" NewName="A.H.H" />
+<Entry OldName="EisHelper.MainWindow.rb_EIS" NewName="A.H.B" />
+<Entry OldName="EisHelper.MainWindow.EIS" NewName="A.H.G" />
+<Entry OldName="EisHelper.MainWindow.cb_credentials" NewName="A.H.H" />
+<Entry OldName="EisHelper.MainWindow.tb_credentials" NewName="A.H.B" />
+<Entry OldName="EisHelper.MainWindow.credentials_input" NewName="A.H.A" />
+<Entry OldName="EisHelper.MainWindow.credentials_name" NewName="A.H.B" />
+<Entry OldName="EisHelper.MainWindow.credentials_password" NewName="A.H.V" />
+<Entry OldName="EisHelper.MainWindow.cb_file_out_part" NewName="A.H.B" />
+<Entry OldName="EisHelper.MainWindow.tb_file_out_part" NewName="A.H.V" />
+<Entry OldName="EisHelper.MainWindow.cb_registration" NewName="A.H.V" />
+<Entry OldName="EisHelper.MainWindow.tb_registration" NewName="A.H.M" />
+<Entry OldName="EisHelper.MainWindow.cb_global_fix" NewName="A.H.M" />
+<Entry OldName="EisHelper.MainWindow.cb_registration_drop" NewName="A.H.G" />
+<Entry OldName="EisHelper.MainWindow.start" NewName="A.H.B" />
+<Entry OldName="EisHelper.MainWindow._contentLoaded" NewName="A.H.H" />
+<Entry OldName="EisHelper.MainWindow.NativeMethods.ErrorMoreData" NewName="A.H.&#x5;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.NativeMethods.ErrorNoMoreItems" NewName="A.H.&#x5;.&#x5;" />
+<Entry OldName="EisHelper.MainWindow.NativeMethods.ErrorUnknownProduct" NewName="A.H.&#x5;.&#xF;" />
+<Entry OldName="EisHelper.MainWindow.NativeMethods.ErrorUnknownProperty" NewName="A.H.&#x5;. " />
+<Entry OldName="EisHelper.MainWindow.NativeMethods.MaxGuidChars" NewName="A.H.&#x5;.&#x15;" />
+<Entry OldName="EisHelper.MainWindow.NativeMethods.NoError" NewName="A.H.&#x5;.&#x12;" />
+<Entry OldName="EisHelper.MainWindow.&lt;&gt;c__DisplayClass23_0.serviceName" NewName="A.H.&#xF;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;&gt;1__state" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;&gt;t__builder" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.connString" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;&gt;4__this" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;conn&gt;5__2" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;&gt;7__wrap2" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;&gt;7__wrap3" NewName="A.H. .&#x5;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;&gt;u__1" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;cmd&gt;5__5" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;&gt;u__2" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.&lt;exc&gt;5__6" NewName="A.H. .&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;&gt;1__state" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;&gt;t__builder" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.connString" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;&gt;4__this" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;conn&gt;5__2" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;&gt;7__wrap2" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;&gt;7__wrap3" NewName="A.H.&#x15;.&#x5;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;&gt;u__1" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;cmd&gt;5__5" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;isExists&gt;5__6" NewName="A.H.&#x15;.&#x5;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;reader&gt;5__7" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;&gt;u__2" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;&gt;u__3" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;&gt;u__4" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.&lt;exc&gt;5__8" NewName="A.H.&#x15;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;&gt;c.&lt;&gt;9" NewName="A.H.&lt;&gt;c.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;&gt;c.&lt;&gt;9__28_0" NewName="A.H.&lt;&gt;c.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;start_Click&gt;d__28.&lt;&gt;1__state" NewName="A.H.&#x12;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;start_Click&gt;d__28.&lt;&gt;t__builder" NewName="A.H.&#x12;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;start_Click&gt;d__28.&lt;&gt;4__this" NewName="A.H.&#x12;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;start_Click&gt;d__28.&lt;connString&gt;5__2" NewName="A.H.&#x12;.&#xD;" />
+<Entry OldName="EisHelper.MainWindow.&lt;start_Click&gt;d__28.&lt;&gt;u__1" NewName="A.H.&#x12;.&#xD;" />
+<Entry OldName="EisHelper.Properties.Resources.resourceMan" NewName="A.&#xC;.&#xD;" />
+<Entry OldName="EisHelper.Properties.Resources.resourceCulture" NewName="A.&#xC;.&#xD;" />
+<Entry OldName="NetFwTypeLib.NET_FW_ACTION_.NET_FW_ACTION_BLOCK" NewName="NetFwTypeLib.NET_FW_ACTION_.&#xD;" />
+<Entry OldName="NetFwTypeLib.NET_FW_ACTION_.NET_FW_ACTION_ALLOW" NewName="NetFwTypeLib.NET_FW_ACTION_.&#x5;" />
+<Entry OldName="NetFwTypeLib.NET_FW_ACTION_.NET_FW_ACTION_MAX" NewName="NetFwTypeLib.NET_FW_ACTION_.&#xF;" />
+<Entry OldName="NetFwTypeLib.NET_FW_RULE_DIRECTION_.NET_FW_RULE_DIR_IN" NewName="NetFwTypeLib.NET_FW_RULE_DIRECTION_.&#xD;" />
+<Entry OldName="NetFwTypeLib.NET_FW_RULE_DIRECTION_.NET_FW_RULE_DIR_OUT" NewName="NetFwTypeLib.NET_FW_RULE_DIRECTION_.&#x5;" />
+<Entry OldName="NetFwTypeLib.NET_FW_RULE_DIRECTION_.NET_FW_RULE_DIR_MAX" NewName="NetFwTypeLib.NET_FW_RULE_DIRECTION_.&#xF;" />
+<Entry OldName="Costura.AssemblyLoader.nullCacheLock" NewName="A.&#x1B;.&#xD;" />
+<Entry OldName="Costura.AssemblyLoader.nullCache" NewName="A.&#x1B;.&#xD;" />
+<Entry OldName="Costura.AssemblyLoader.assemblyNames" NewName="A.&#x1B;.&#xD;" />
+<Entry OldName="Costura.AssemblyLoader.symbolNames" NewName="A.&#x1B;.&#x5;" />
+<Entry OldName="Costura.AssemblyLoader.isAttached" NewName="A.&#x1B;.&#xD;" />
+<Entry OldName="ProcessedByFody.FodyVersion" NewName="A.&#x2;.&#xD;" />
+<Entry OldName="ProcessedByFody.Costura" NewName="A.&#x2;.&#x5;" />
+<Entry OldName="EisHelper.App..ctor()" NewName="A.&#xD;..ctor()" />
+<Entry OldName="EisHelper.App.InitializeComponent()" NewName="A.&#xD;.&#xD;()" />
+<Entry OldName="EisHelper.App.Main()" NewName="A.&#xD;.&#x5;()" />
+<Entry OldName="EisHelper.MainWindow..ctor()" NewName="A.H..ctor()" />
+<Entry OldName="EisHelper.MainWindow..cctor()" NewName="A.H..cctor()" />
+<Entry OldName="EisHelper.MainWindow.CheckOutFilePartSize()" NewName="A.H.B()" />
+<Entry OldName="EisHelper.MainWindow.CheckOutFilePartSizeHelper(FileInfo fs)" NewName="A.H.B(FileInfo H)" />
+<Entry OldName="EisHelper.MainWindow.Copy(String sourceDirectory, String targetDirectory)" NewName="A.H.V(String H, String B)" />
+<Entry OldName="EisHelper.MainWindow.CopyAll(DirectoryInfo source, DirectoryInfo target)" NewName="A.H.M(DirectoryInfo H, DirectoryInfo B)" />
+<Entry OldName="EisHelper.MainWindow.WriteResourceToFile(String resourceName, String fileName)" NewName="A.H.G(String H, String B)" />
+<Entry OldName="EisHelper.MainWindow.FindEISLocation()" NewName="A.H.A()" />
+<Entry OldName="EisHelper.MainWindow.GetProperty(String productCode, String propertyName, StringBuilder sbBuffer)" NewName="A.H.B(String H, String B, StringBuilder V)" />
+<Entry OldName="EisHelper.MainWindow.RunCmd(String command)" NewName="A.H.B(String H)" />
+<Entry OldName="EisHelper.MainWindow.ZeroMemory(IntPtr Destination, Int32 Length)" NewName="A.H.B(IntPtr H, Int32 B)" />
+<Entry OldName="EisHelper.MainWindow.BackupSyncServiceLocation()" NewName="A.H.B()" />
+<Entry OldName="EisHelper.MainWindow.credentials_Checked(Object sender, RoutedEventArgs e)" NewName="A.H.credentials_Checked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="EisHelper.MainWindow.credentials_Unchecked(Object sender, RoutedEventArgs e)" NewName="A.H.credentials_Unchecked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="EisHelper.MainWindow.DoesServiceExist(String serviceName)" NewName="A.H.B(String H)" />
+<Entry OldName="EisHelper.MainWindow.MariaDB_flush_credentials(String connString)" NewName="A.H.B(String H)" />
+<Entry OldName="EisHelper.MainWindow.MariaDB_get_credentials(String connString)" NewName="A.H.V(String H)" />
+<Entry OldName="EisHelper.MainWindow.RadioButton_eis_Checked(Object sender, RoutedEventArgs e)" NewName="A.H.RadioButton_eis_Checked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="EisHelper.MainWindow.RadioButton_enot_Checked(Object sender, RoutedEventArgs e)" NewName="A.H.RadioButton_enot_Checked(Object sender, RoutedEventArgs e)" />
+<Entry OldName="EisHelper.MainWindow.start_Click(Object sender, RoutedEventArgs e)" NewName="A.H.start_Click(Object sender, RoutedEventArgs e)" />
+<Entry OldName="EisHelper.MainWindow.Button_Click(Object sender, RoutedEventArgs e)" NewName="A.H.Button_Click(Object sender, RoutedEventArgs e)" />
+<Entry OldName="EisHelper.MainWindow.InitializeComponent()" NewName="A.H.InitializeComponent()" />
+<Entry OldName="EisHelper.MainWindow.System.Windows.Markup.IComponentConnector.Connect(Int32 connectionId, Object target)" NewName="A.H.H(Int32 H, Object B)" />
+<Entry OldName="EisHelper.MainWindow.NativeMethods.MsiEnumRelatedProducts(String lpUpgradeCode, Int32 dwReserved, Int32 iProductIndex, StringBuilder lpProductBuf)" NewName="A.H.&#x5;.&#xD;(String &#xD;, Int32 &#x5;, Int32 &#xF;, StringBuilder  )" />
+<Entry OldName="EisHelper.MainWindow.NativeMethods.MsiGetProductInfo(String product, String property, StringBuilder valueBuf, Int32&amp; cchValueBuf)" NewName="A.H.&#x5;.&#xD;(String &#xD;, String &#x5;, StringBuilder &#xF;, Int32&amp;  )" />
+<Entry OldName="EisHelper.MainWindow.&lt;&gt;c__DisplayClass23_0..ctor()" NewName="A.H.&#xF;..ctor()" />
+<Entry OldName="EisHelper.MainWindow.&lt;&gt;c__DisplayClass23_0.&lt;DoesServiceExist&gt;b__0(ServiceController serviceController)" NewName="A.H.&#xF;.&#xD;(ServiceController &#xD;)" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.MoveNext()" NewName="A.H. .MoveNext()" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_flush_credentials&gt;d__24.SetStateMachine(IAsyncStateMachine stateMachine)" NewName="A.H. .SetStateMachine(IAsyncStateMachine stateMachine)" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.MoveNext()" NewName="A.H.&#x15;.MoveNext()" />
+<Entry OldName="EisHelper.MainWindow.&lt;MariaDB_get_credentials&gt;d__25.SetStateMachine(IAsyncStateMachine stateMachine)" NewName="A.H.&#x15;.SetStateMachine(IAsyncStateMachine stateMachine)" />
+<Entry OldName="EisHelper.MainWindow.&lt;&gt;c..cctor()" NewName="A.H.&lt;&gt;c..cctor()" />
+<Entry OldName="EisHelper.MainWindow.&lt;&gt;c..ctor()" NewName="A.H.&lt;&gt;c..ctor()" />
+<Entry OldName="EisHelper.MainWindow.&lt;&gt;c.&lt;start_Click&gt;b__28_0(RadioButton r)" NewName="A.H.&lt;&gt;c.&#xD;(RadioButton &#xD;)" />
+<Entry OldName="EisHelper.MainWindow.&lt;start_Click&gt;d__28.MoveNext()" NewName="A.H.&#x12;.MoveNext()" />
+<Entry OldName="EisHelper.MainWindow.&lt;start_Click&gt;d__28.SetStateMachine(IAsyncStateMachine stateMachine)" NewName="A.H.&#x12;.SetStateMachine(IAsyncStateMachine stateMachine)" />
+<Entry OldName="EisHelper.Properties.Resources..ctor()" NewName="A.&#xC;..ctor()" />
+<Entry OldName="EisHelper.Properties.Resources.get_ResourceManager()" NewName="A.&#xC;.get_ResourceManager()" />
+<Entry OldName="EisHelper.Properties.Resources.get_Culture()" NewName="A.&#xC;.get_Culture()" />
+<Entry OldName="EisHelper.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.&#xC;.set_Culture(CultureInfo value)" />
+<Entry OldName="Costura.AssemblyLoader..cctor()" NewName="A.&#x1B;..cctor()" />
+<Entry OldName="Costura.AssemblyLoader.CultureToString(CultureInfo culture)" NewName="A.&#x1B;.&#xD;(CultureInfo &#xD;)" />
+<Entry OldName="Costura.AssemblyLoader.ReadExistingAssembly(AssemblyName name)" NewName="A.&#x1B;.&#xD;(AssemblyName &#xD;)" />
+<Entry OldName="Costura.AssemblyLoader.CopyTo(Stream source, Stream destination)" NewName="A.&#x1B;.&#xD;(Stream &#xD;, Stream &#x5;)" />
+<Entry OldName="Costura.AssemblyLoader.LoadStream(String fullName)" NewName="A.&#x1B;.&#xD;(String &#xD;)" />
+<Entry OldName="Costura.AssemblyLoader.LoadStream(Dictionary`2 resourceNames, String name)" NewName="A.&#x1B;.&#xD;(Dictionary`2 &#xD;, String &#x5;)" />
+<Entry OldName="Costura.AssemblyLoader.ReadStream(Stream stream)" NewName="A.&#x1B;.&#xD;(Stream &#xD;)" />
+<Entry OldName="Costura.AssemblyLoader.ReadFromEmbeddedResources(Dictionary`2 assemblyNames, Dictionary`2 symbolNames, AssemblyName requestedAssemblyName)" NewName="A.&#x1B;.&#x5;(Dictionary`2 &#xD;, Dictionary`2 &#x5;, AssemblyName &#xF;)" />
+<Entry OldName="Costura.AssemblyLoader.ResolveAssembly(Object sender, ResolveEventArgs e)" NewName="A.&#x1B;.&#xD;(Object &#xD;, ResolveEventArgs &#x5;)" />
+<Entry OldName="Costura.AssemblyLoader.Attach()" NewName="A.&#x1B;.&#x5;()" />
+<Entry OldName="EisHelper.App" NewName="A.&#xD;" />
+<Entry OldName="EisHelper.MainWindow+NativeMethods" NewName="A.H+&#x5;" />
+<Entry OldName="EisHelper.MainWindow+&lt;&gt;c__DisplayClass23_0" NewName="A.H+&#xF;" />
+<Entry OldName="EisHelper.MainWindow+&lt;MariaDB_flush_credentials&gt;d__24" NewName="A.H+ " />
+<Entry OldName="EisHelper.MainWindow+&lt;MariaDB_get_credentials&gt;d__25" NewName="A.H+&#x15;" />
+<Entry OldName="EisHelper.MainWindow+&lt;&gt;c" NewName="A.H+&lt;&gt;c" />
+<Entry OldName="EisHelper.MainWindow+&lt;start_Click&gt;d__28" NewName="A.H+&#x12;" />
+<Entry OldName="EisHelper.MainWindow" NewName="A.H" />
+<Entry OldName="EisHelper.Properties.Resources" NewName="A.&#xC;" />
+<Entry OldName="Costura.AssemblyLoader" NewName="A.&#x1B;" />
+<Entry OldName="ProcessedByFody" NewName="A.&#x2;" />
+<Assembly Name="EisHelper"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name=".cctor" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="EisHelper.App" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663300" Name="Main" Variables="" ParamCnt="0" />
+<Type Token="33554436" Name="EisHelper.MainWindow" />
+<Method Token="100663302" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663303" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663304" Name="CheckOutFilePartSize" Variables="this;" ParamCnt="1" />
+<Method Token="100663305" Name="CheckOutFilePartSizeHelper" Variables="this;fs;V_0;" ParamCnt="2" />
+<Method Token="100663306" Name="Copy" Variables="sourceDirectory;targetDirectory;V_0;" ParamCnt="2" />
+<Method Token="100663307" Name="CopyAll" Variables="source;target;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663308" Name="WriteResourceToFile" Variables="this;resourceName;fileName;V_0;V_1;" ParamCnt="3" />
+<Method Token="100663309" Name="FindEISLocation" Variables="V_0;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663310" Name="GetProperty" Variables="productCode;propertyName;sbBuffer;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;" ParamCnt="3" />
+<Method Token="100663311" Name="RunCmd" Variables="command;" ParamCnt="1" />
+<Method Token="100663312" Name="ZeroMemory" Variables="Destination;Length;" ParamCnt="2" />
+<Method Token="100663313" Name="BackupSyncServiceLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663314" Name="credentials_Checked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663315" Name="credentials_Unchecked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663316" Name="DoesServiceExist" Variables="this;serviceName;V_0;" ParamCnt="2" />
+<Method Token="100663317" Name="MariaDB_flush_credentials" Variables="this;connString;V_0;" ParamCnt="2" />
+<Method Token="100663318" Name="MariaDB_get_credentials" Variables="this;connString;V_0;" ParamCnt="2" />
+<Method Token="100663319" Name="RadioButton_eis_Checked" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663320" Name="RadioButton_enot_Checked" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663321" Name="start_Click" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663322" Name="Button_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663323" Name="InitializeComponent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663324" Name="System.Windows.Markup.IComponentConnector.Connect" Variables="this;connectionId;target;" ParamCnt="3" />
+<Field Token="67108865" Name="ConnectionTimeout" />
+<Field Token="67108866" Name="Login" />
+<Field Token="67108867" Name="TMPE" />
+<Field Token="67108868" Name="backupPath" />
+<Field Token="67108869" Name="cur_status" />
+<Field Token="67108870" Name="installLocation" />
+<Field Token="67108871" Name="Port" />
+<Field Token="67108872" Name="Server" />
+<Field Token="67108873" Name="tmpEISfiles" />
+<Field Token="67108874" Name="upgradeCode" />
+<Field Token="67108875" Name="stackLogin" />
+<Field Token="67108876" Name="pbPassword" />
+<Field Token="67108877" Name="tbPassword" />
+<Field Token="67108878" Name="btLogin" />
+<Field Token="67108879" Name="MainGrid" />
+<Field Token="67108880" Name="HelperBody" />
+<Field Token="67108881" Name="Settings" />
+<Field Token="67108882" Name="txt_Server" />
+<Field Token="67108883" Name="EnotEis" />
+<Field Token="67108884" Name="rb_Enot" />
+<Field Token="67108885" Name="rb_EIS" />
+<Field Token="67108886" Name="EIS" />
+<Field Token="67108887" Name="cb_credentials" />
+<Field Token="67108888" Name="tb_credentials" />
+<Field Token="67108889" Name="credentials_input" />
+<Field Token="67108890" Name="credentials_name" />
+<Field Token="67108891" Name="credentials_password" />
+<Field Token="67108892" Name="cb_file_out_part" />
+<Field Token="67108893" Name="tb_file_out_part" />
+<Field Token="67108894" Name="cb_registration" />
+<Field Token="67108895" Name="tb_registration" />
+<Field Token="67108896" Name="cb_global_fix" />
+<Field Token="67108897" Name="cb_registration_drop" />
+<Field Token="67108898" Name="start" />
+<Field Token="67108899" Name="_contentLoaded" />
+<Type Token="33554438" Name="EisHelper.MainWindow/NativeMethods" />
+<Method Token="100663331" Name="MsiEnumRelatedProducts" Variables="lpUpgradeCode;dwReserved;iProductIndex;lpProductBuf;" ParamCnt="4" />
+<Method Token="100663332" Name="MsiGetProductInfo" Variables="product;property;valueBuf;cchValueBuf;" ParamCnt="4" />
+<Field Token="67108901" Name="ErrorMoreData" />
+<Field Token="67108902" Name="ErrorNoMoreItems" />
+<Field Token="67108903" Name="ErrorUnknownProduct" />
+<Field Token="67108904" Name="ErrorUnknownProperty" />
+<Field Token="67108905" Name="MaxGuidChars" />
+<Field Token="67108906" Name="NoError" />
+<Type Token="33554439" Name="EisHelper.MainWindow/&lt;&gt;c__DisplayClass23_0" />
+<Method Token="100663333" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663334" Name="&lt;DoesServiceExist&gt;b__0" Variables="this;serviceController;" ParamCnt="2" />
+<Field Token="67108907" Name="serviceName" />
+<Type Token="33554440" Name="EisHelper.MainWindow/&lt;MariaDB_flush_credentials&gt;d__24" />
+<Method Token="100663335" Name="MoveNext" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="1" />
+<Method Token="100663336" Name="SetStateMachine" Variables="this;stateMachine;" ParamCnt="2" />
+<Field Token="67108908" Name="&lt;&gt;1__state" />
+<Field Token="67108909" Name="&lt;&gt;t__builder" />
+<Field Token="67108910" Name="connString" />
+<Field Token="67108911" Name="&lt;&gt;4__this" />
+<Field Token="67108912" Name="&lt;conn&gt;5__2" />
+<Field Token="67108913" Name="&lt;&gt;7__wrap2" />
+<Field Token="67108914" Name="&lt;&gt;7__wrap3" />
+<Field Token="67108915" Name="&lt;&gt;u__1" />
+<Field Token="67108916" Name="&lt;cmd&gt;5__5" />
+<Field Token="67108917" Name="&lt;&gt;u__2" />
+<Field Token="67108918" Name="&lt;exc&gt;5__6" />
+<Type Token="33554441" Name="EisHelper.MainWindow/&lt;MariaDB_get_credentials&gt;d__25" />
+<Method Token="100663337" Name="MoveNext" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;" ParamCnt="1" />
+<Method Token="100663338" Name="SetStateMachine" Variables="this;stateMachine;" ParamCnt="2" />
+<Field Token="67108919" Name="&lt;&gt;1__state" />
+<Field Token="67108920" Name="&lt;&gt;t__builder" />
+<Field Token="67108921" Name="connString" />
+<Field Token="67108922" Name="&lt;&gt;4__this" />
+<Field Token="67108923" Name="&lt;conn&gt;5__2" />
+<Field Token="67108924" Name="&lt;&gt;7__wrap2" />
+<Field Token="67108925" Name="&lt;&gt;7__wrap3" />
+<Field Token="67108926" Name="&lt;&gt;u__1" />
+<Field Token="67108927" Name="&lt;cmd&gt;5__5" />
+<Field Token="67108928" Name="&lt;isExists&gt;5__6" />
+<Field Token="67108929" Name="&lt;reader&gt;5__7" />
+<Field Token="67108930" Name="&lt;&gt;u__2" />
+<Field Token="67108931" Name="&lt;&gt;u__3" />
+<Field Token="67108932" Name="&lt;&gt;u__4" />
+<Field Token="67108933" Name="&lt;exc&gt;5__8" />
+<Type Token="33554442" Name="EisHelper.MainWindow/&lt;&gt;c" />
+<Method Token="100663339" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663340" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663341" Name="&lt;start_Click&gt;b__28_0" Variables="this;r;V_0;V_1;" ParamCnt="2" />
+<Field Token="67108934" Name="&lt;&gt;9" />
+<Field Token="67108935" Name="&lt;&gt;9__28_0" />
+<Type Token="33554443" Name="EisHelper.MainWindow/&lt;start_Click&gt;d__28" />
+<Method Token="100663342" Name="MoveNext" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;" ParamCnt="1" />
+<Method Token="100663343" Name="SetStateMachine" Variables="this;stateMachine;" ParamCnt="2" />
+<Field Token="67108936" Name="&lt;&gt;1__state" />
+<Field Token="67108937" Name="&lt;&gt;t__builder" />
+<Field Token="67108938" Name="&lt;&gt;4__this" />
+<Field Token="67108939" Name="&lt;connString&gt;5__2" />
+<Field Token="67108940" Name="&lt;&gt;u__1" />
+<Type Token="33554444" Name="EisHelper.Properties.Resources" />
+<Method Token="100663344" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663345" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663346" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663347" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108941" Name="resourceMan" />
+<Field Token="67108942" Name="resourceCulture" />
+<Type Token="33554445" Name="EisHelper.Properties.Settings" />
+<Method Token="100663348" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663349" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663350" Name="get_Default" Variables="" ParamCnt="0" />
+<Field Token="67108943" Name="defaultInstance" />
+<Type Token="33554446" Name="NetFwTypeLib.INetFwPolicy2" />
+<Method Token="100663351" Name="_VtblGap1_11" Variables="this;" ParamCnt="1" />
+<Method Token="100663352" Name="get_Rules" Variables="this;" ParamCnt="1" />
+<Type Token="33554448" Name="NetFwTypeLib.INetFwRule" />
+<Method Token="100663360" Name="get_Name" Variables="this;" ParamCnt="1" />
+<Method Token="100663361" Name="set_Name" Variables="this;Name;" ParamCnt="2" />
+<Method Token="100663362" Name="_VtblGap1_6" Variables="this;" ParamCnt="1" />
+<Method Token="100663363" Name="get_Protocol" Variables="this;" ParamCnt="1" />
+<Method Token="100663364" Name="set_Protocol" Variables="this;Protocol;" ParamCnt="2" />
+<Method Token="100663365" Name="get_LocalPorts" Variables="this;" ParamCnt="1" />
+<Method Token="100663366" Name="set_LocalPorts" Variables="this;portNumbers;" ParamCnt="2" />
+<Method Token="100663367" Name="get_RemotePorts" Variables="this;" ParamCnt="1" />
+<Method Token="100663368" Name="set_RemotePorts" Variables="this;portNumbers;" ParamCnt="2" />
+<Method Token="100663369" Name="_VtblGap2_6" Variables="this;" ParamCnt="1" />
+<Method Token="100663370" Name="get_Direction" Variables="this;" ParamCnt="1" />
+<Method Token="100663371" Name="set_Direction" Variables="this;dir;" ParamCnt="2" />
+<Method Token="100663372" Name="_VtblGap3_4" Variables="this;" ParamCnt="1" />
+<Method Token="100663373" Name="get_Enabled" Variables="this;" ParamCnt="1" />
+<Method Token="100663374" Name="set_Enabled" Variables="this;Enabled;" ParamCnt="2" />
+<Method Token="100663375" Name="_VtblGap4_6" Variables="this;" ParamCnt="1" />
+<Method Token="100663376" Name="get_Action" Variables="this;" ParamCnt="1" />
+<Method Token="100663377" Name="set_Action" Variables="this;Action;" ParamCnt="2" />
+<Type Token="33554450" Name="NetFwTypeLib.INetFwRules" />
+<Method Token="100663381" Name="_VtblGap1_1" Variables="this;" ParamCnt="1" />
+<Method Token="100663382" Name="Add" Variables="this;rule;" ParamCnt="2" />
+<Method Token="100663383" Name="Remove" Variables="this;Name;" ParamCnt="2" />
+<Type Token="33554451" Name="NetFwTypeLib.NET_FW_ACTION_" />
+<Field Token="67108949" Name="value__" />
+<Field Token="67108950" Name="NET_FW_ACTION_BLOCK" />
+<Field Token="67108951" Name="NET_FW_ACTION_ALLOW" />
+<Field Token="67108952" Name="NET_FW_ACTION_MAX" />
+<Type Token="33554452" Name="NetFwTypeLib.NET_FW_RULE_DIRECTION_" />
+<Field Token="67108953" Name="value__" />
+<Field Token="67108954" Name="NET_FW_RULE_DIR_IN" />
+<Field Token="67108955" Name="NET_FW_RULE_DIR_OUT" />
+<Field Token="67108956" Name="NET_FW_RULE_DIR_MAX" />
+<Type Token="33554454" Name="Costura.AssemblyLoader" />
+<Method Token="100663391" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663392" Name="CultureToString" Variables="culture;" ParamCnt="1" />
+<Method Token="100663393" Name="ReadExistingAssembly" Variables="name;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663394" Name="CopyTo" Variables="source;destination;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663395" Name="LoadStream" Variables="fullName;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663396" Name="LoadStream" Variables="resourceNames;name;V_0;" ParamCnt="2" />
+<Method Token="100663397" Name="ReadStream" Variables="stream;V_0;" ParamCnt="1" />
+<Method Token="100663398" Name="ReadFromEmbeddedResources" Variables="assemblyNames;symbolNames;requestedAssemblyName;V_0;V_1;V_2;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663399" Name="ResolveAssembly" Variables="sender;e;V_0;V_1;V_2;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663400" Name="Attach" Variables="" ParamCnt="0" />
+<Field Token="67108963" Name="nullCacheLock" />
+<Field Token="67108964" Name="nullCache" />
+<Field Token="67108965" Name="assemblyNames" />
+<Field Token="67108966" Name="symbolNames" />
+<Field Token="67108967" Name="isAttached" />
+<Type Token="33554455" Name="ProcessedByFody" />
+<Field Token="67108968" Name="FodyVersion" />
+<Field Token="67108969" Name="Costura" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663301" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
